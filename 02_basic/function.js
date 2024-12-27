@@ -56,6 +56,7 @@ function handleObject(anyobject){
 }
 handleObject(user)
 
+// In array find the number using by function
 
 const myNewArray = [200,400,100,600]
 function returnSecondValue(getArray){
