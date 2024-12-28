@@ -1,1 +1,1 @@
-   three();
+console.log(`user power:${power}`);
