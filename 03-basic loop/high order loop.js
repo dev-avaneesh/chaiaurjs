@@ -11,7 +11,7 @@ for (const greet of greetings){
     
 }
 
-// Map method  (map only unique value print krta hai duplicate value is not allowed)
+// for of  (only unique value print krta hai duplicate value is not allowed)
 
 const map = new Map()
 map.set('IN',"India")
